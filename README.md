@@ -1,4 +1,4 @@
-# 🏦 Bluechip Summit: Credit Worthiness Prediction
+# 🏦 Bluechip Summit: Credit Worthiness Prediction (Hosted on Kaggle)
 
 **Goal:** Automate loan eligibility validation by classifying applicants as "Creditworthy" (Approved) or not, based on financial and demographic data.
 
